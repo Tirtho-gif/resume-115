@@ -1,0 +1,220 @@
+body{
+    background-color: #f6f5f5;
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    width: 100%;
+    height:95vh;
+    background-image: url(jesus-kiteque-wn-KYaHwcis-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    height: 53px;
+    background-color: #e8ebf0;
+    box-shadow: 2px 2px 12px  rgba(0,0,1,.2);
+    padding: 0px 5%;  
+       
+}
+nav ul{
+    display: flex;
+}
+nav ul li a{
+    margin: 22px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: rgb(86,90,99);
+    font-size: 15px;
+    font-variant: small-caps;
+    
+}
+.logo{
+    margin-top: 15px;
+    font-family: serif;
+    font-size: 25px;
+    color:  rgb(86,90,99);
+}
+.active{
+    font-weight: 900;
+}
+.text-container p:nth-child(1){
+    font-family: calibri;
+    font-weight: bold;
+    color: rgb(86,90,99);
+    font-size: 22px;
+}
+.text-container p:nth-child(2){
+    font-family: calibri;
+    font-weight: bolder;
+    color:#111111 rgb(86,90,99);
+    font-size: 30px;
+}
+.text-container p:nth-child(3){
+    font-family: calibri;
+    font-weight: bold;
+    color: rgb(86,90,99);
+    font-size: 20px;
+}
+.text-container p{
+    line-height: 0px;
+    margin: 25px 0px 31px;
+}
+.text-container{
+    position: absolute;
+    left:13%;
+    top:42%;
+    transform: translate(13%,-42%);
+}
+.text-container button{
+    width: 130px;
+    height: 42px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}
+a:hover{
+    background-color: rgb(177,188,206);
+}
+button:hover{
+    background: 0px;
+}
+.model img{
+    width: auto;
+    height: 270px;
+    background-size: contain;
+    float: right;
+    padding-top: 9%;
+    padding-right: 30%;
+    
+}
+body{
+    background-color: #f6f5f5;
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    width: 100%;
+    height:95vh;
+    background-image: url(jesus-kiteque-wn-KYaHwcis-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    height: 53px;
+    background-color: #e8ebf0;
+    box-shadow: 2px 2px 12px  rgba(0,0,1,.2);
+    padding: 0px 5%;  
+       
+}
+nav ul{
+    display: flex;
+}
+nav ul li a{
+    margin: 22px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: rgb(86,90,99);
+    font-size: 15px;
+    font-variant: small-caps;
+    
+}
+.logo{
+    margin-top: 15px;
+    font-family: serif;
+    font-size: 25px;
+    color:  rgb(86,90,99);
+}
+.active{
+    font-weight: 900;
+}
+.text-container p:nth-child(1){
+    font-family: calibri;
+    font-weight: bold;
+    color: rgb(86,90,99);
+    font-size: 22px;
+}
+.text-container p:nth-child(2){
+    font-family: calibri;
+    font-weight: bolder;
+    color:#111111 rgb(86,90,99);
+    font-size: 30px;
+}
+.text-container p:nth-child(3){
+    font-family: calibri;
+    font-weight: bold;
+    color: rgb(86,90,99);
+    font-size: 20px;
+}
+.text-container p{
+    line-height: 0px;
+    margin: 25px 0px 31px;
+}
+.text-container{
+    position: absolute;
+    left:13%;
+    top:42%;
+    transform: translate(13%,-42%);
+}
+.text-container button{
+    width: 130px;
+    height: 42px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}
+a:hover{
+    background-color: rgb(177,188,206);
+}
+button:hover{
+    background: 0px;
+}
+.model img{
+    width: auto;
+    height: 270px;
+    background-size: contain;
+    float: right;
+    padding-top: 9%;
+    padding-right: 30%;
+    
+}
+.cv-section{
+    width: 33%;
+    height: 330px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: -2px 25px 14px 13px rgba(0,0,0,0.2);
+    margin-left: 32%;
+    text-align: justify;
+    align-content: center;
+    padding: 45px;
+}
+.contain p{
+    text-align: center;
+    padding-top: -1px;
+    font-size: 22px;
+}
